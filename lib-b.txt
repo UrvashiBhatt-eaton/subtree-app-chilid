@@ -1,1 +1,1 @@
-Lib File a is a text file for checking the subtree approach.
+Lib File b is a text file for checking the subtree approach.
